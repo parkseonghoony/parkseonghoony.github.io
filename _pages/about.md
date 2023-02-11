@@ -6,7 +6,7 @@ subtitle: >
   <a href='https://scholar.google.co.kr/citations?user=0x6frTEAAAAJ&hl=en'>Google Scholar</a> |
   <a href='https://github.com/park-s'>GitHub</a> |
   <a href='https://linkedin.com/in/park-seonghoon'>LinkedIn</a> |
-  <a href='/assets/pdf/seonghoon_cv.pdf'>CV</a>
+  <a href='https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf'>CV</a>
 
 profile:
   align: right
@@ -26,6 +26,6 @@ Hello, this is Seonghoon Park. Welcome to my website. 😀
 
 I am a Ph.D. student in Computer Science at Yonsei University, Seoul, South Korea. Also, I am a member of the [Mobile Embedded Systems Lab.](https://mobed.yonsei.ac.kr) supervised by Prof. Hojung Cha.
 
-My research interests include mobile web experiences and energy-aware mobile systems. I have published reseach papers in top-tier conferences including MobiCom, MobiSys, INFOCOM, and PerCom. You can find my [CV](/assets/pdf/seonghoon_cv.pdf) here!
+My research interests include mobile web experiences and energy-aware mobile systems. I have published reseach papers in top-tier conferences including MobiCom, MobiSys, INFOCOM, and PerCom. You can find my [CV](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf) here!
 
 If you'd like to contact me, please email me at [park.s@yonsei.ac.kr](mailto:park.s@yonsei.ac.kr) (primary) or [park@seonghoon.email](mailto:park@seonghoon.email) (secondary). Thank you 🙏
