@@ -4,3 +4,7 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+# Journals
+"TMC":
+  color: "#8a0303"

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-12-02
 inline: true
 ---
 
-A simple inline announcement.
+My research paper titled "Crow API: Cross-Device I/O Sharing in Web Applications" has been accepted at INFOCOM 2023.

@@ -3,12 +3,103 @@
 
 @string{acm = {ACM,}}
 
+@INPROCEEDINGS{to-apper-Crow,
+  author={Park, Seonghoon and Lee, Jeho and Cha, Hojung},
+  booktitle={IEEE INFOCOM 2023 - IEEE Conference on Computer Communications (To Appear)}, 
+  title={Crow API: Cross-device I/O Sharing in Web Applications}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={},
+  selected={true},
+  abbr={INFOCOM},
+}
+
+
+@ARTICLE{9352566,
+  author={Choi, Yonghun and Park, Seonghoon and Jeon, Seunghyeok and Ha, Rhan and Cha, Hojung},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Optimizing Energy Consumption of Mobile Games},
+  abstract={Games are energy-intensive applications on mobile devices. Optimizing the energy efficiency of games is hence critical for battery-limited mobile devices. Although the advent of energy-aware scheduling (EAS) integrated in recent devices has provided opportunities for improved energy management, the framework is not specifically tuned for game applications. In this paper, we aim to improve the energy efficiency of game applications running on EAS-enabled mobile devices. To this end, we first analyze the functional characteristics of games, and investigate the source of the energy inefficiency. We then propose a scheme, called System-level Energy-optimization for Game Applications (SEGA), to improve the energy efficiency of games. SEGA governs CPU and GPU power consumption in a tightly coupled manner by employing three key techniques: (1) Lsync-aware GPU DVFS governor, (2) adaptive capacity clamping, and (3) on-demand touch boosting. We implemented SEGA on the latest Android-based smartphones. The evaluation results for 23 popular games showed that SEGA reduced the energy consumption of the Google Pixel 2 XL and Samsung Galaxy S9 Plus smartphones, at the device level, by 6.1–22.3 and 4.0–11.7 percent, respectively, with a quality of service (QoS) degradation of 1.1 and 0.5 percent, on average.},
+  year={2022},
+  volume={21},
+  number={10},
+  pages={3744-3756},
+  doi={10.1109/TMC.2021.3058381},
+  selected={false},
+  abbr={TMC},
+  pdf={https://ieeexplore.ieee.org/document/9439113}
+}
+
 @INPROCEEDINGS{9488671,
   author={Park, Seonghoon and Choi, Yonghun and Cha, Hojung},
   booktitle={IEEE INFOCOM 2021 - IEEE Conference on Computer Communications}, 
   title={WebMythBusters: An In-depth Study of Mobile Web Experience}, 
+  abstract={The quality of experience (QoE) is an important issue for users when accessing the web. Although many metrics have been designed to estimate the QoE in the desktop environment, few studies have confirmed whether the QoE metrics are valid in the mobile environment. In this paper, we ask questions regarding the validity of using desktop-based QoE metrics for the mobile web and find answers. We first classify the existing QoE metrics into several groups according to three criteria and then identify the differences between the mobile and desktop environments. Based on the analysis, we ask three research questions and develop a system, called WebMythBusters, for collecting and analyzing mobile web experiences. Through an extensive analysis of the collected user data, we find that (1) the metrics focusing on fast completion or fast initiation of the page loading process cannot estimate the actual QoE, (2) the conventional scheme of calculating visual progress is not appropriate, and (3) focusing only on the above-the-fold area is not sufficient in the mobile environment. The findings indicate that QoE metrics designed for the desktop environment are not necessarily adequate for the mobile environment, and appropriate metrics should be devised to reflect the mobile web experience.},
   year={2021},
   volume={},
   number={},
   pages={1-10},
-  doi={10.1109/INFOCOM42981.2021.9488671}}
+  doi={10.1109/INFOCOM42981.2021.9488671},
+  selected={true},
+  abbr={INFOCOM},
+  pdf={https://ieeexplore.ieee.org/abstract/document/9488671}
+}
+
+@INPROCEEDINGS{9439113,
+  author={Park, Joonbeom and Park, Seonghoon and Cha, Hojung},
+  booktitle={2021 IEEE International Conference on Pervasive Computing and Communications}, 
+  title={GAZEL: Runtime Gaze Tracking for Smartphones},
+  abstract={Although work has been conducted on smartphone gaze tracking, the existing techniques are not pervasively used because of their heavy weight and low accuracy. Our preliminary analysis shows that these techniques would work better if their models were trained with data from tablets which have large screens. In this paper, we propose GAZEL, a runtime smartphone gaze-tracking scheme that achieves high accuracy on real devices. The key idea of GAZEL, a tablet-to-smartphone transfer learning, is to train a CNN model with data collected from tablets and then transplant the model to a smartphone. To achieve the goal, we designed a new CNN-based model architecture that is head pose resilient and light enough to operate at runtime. We also exploit implicit calibration to alleviate errors caused by differences in users' visual and device characteristics. The experiment results with commercial smartphones show that GAZEL achieves 27.5% better accuracy on smartphones compared to the state-of-the-art techniques and provides gaze tracking at up to 18 fps which is practically usable at runtime.},
+  year={2021},
+  volume={},
+  number={},
+  pages={1-10},
+  doi={10.1109/PERCOM50583.2021.9439113},
+  selected={false},
+  abbr={PerCom},
+  pdf={https://ieeexplore.ieee.org/document/9439113}
+}
+
+@inproceedings{10.1145/3300061.3345449,
+  author = {Choi, Yonghun and Park, Seonghoon and Cha, Hojung},
+  title = {Optimizing Energy Efficiency of Browsers in Energy-Aware Scheduling-Enabled Mobile Devices},
+  year = {2019},
+  isbn = {9781450361699},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3300061.3345449},
+  doi = {10.1145/3300061.3345449},
+  abstract = {Web browsing, previously optimized for the desktop environment, is being fine-tuned for energy-efficient use on mobile devices. Although active attempts have been made to reduce energy consumption, the advent of energy-aware scheduling (EAS) integrated in the recent devices suggests the possibility of a new approach for optimizing energy use by browsers. Our preliminary analysis showed that the existing EAS-enabled system is overly optimized for performance, leading to energy inefficiencies while a web browser is running. In this paper, we analyze the characteristics of web browsers, and investigate the cause of energy inefficiency in EAS-enabled mobile devices. We then propose a system, called WebTune, to improve the energy efficiency of mobile browsers. Exploiting the reinforcement learning technique, WebTune learns the optimal execution speed of the web browser's processes, and adjusts the speed at runtime, thus saving energy and ensuring the quality of service (QoS). WebTune is implemented on the latest Android-based smartphones, and evaluated with Alexa's top 200 websites. The experimental results show that WebTune reduced the device-level energy consumption of the Google Pixel 2 XL and Samsung Galaxy S9 Plus smartphones by 18.7-22.0\% and 13.7-16.1\%, respectively, without degrading the QoS.},
+  booktitle = {The 25th Annual International Conference on Mobile Computing and Networking},
+  articleno = {48},
+  numpages = {16},
+  keywords = {energy efficiency, energy-aware scheduling, smartphones, mobile web browser},
+  location = {Los Cabos, Mexico},
+  series = {MobiCom '19},
+  selected={true},
+  abbr={MobiCom},
+  pdf={https://dl.acm.org/doi/10.1145/3300061.3345449}
+}
+
+@inproceedings{10.1145/3307334.3326075,
+  author = {Choi, Yonghun and Park, Seonghoon and Cha, Hojung},
+  title = {Graphics-Aware Power Governing for Mobile Devices},
+  year = {2019},
+  isbn = {9781450366618},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3307334.3326075},
+  doi = {10.1145/3307334.3326075},
+  abstract = {Graphics increasingly play a key role in modern mobile devices. The graphics pipeline requires a close relationship between the CPU and the GPU to ensure energy efficiency and the user's quality of experience (QoE). Our preliminary analysis showed that the current techniques employed to achieve energy efficiency in the Android graphics pipeline are not optimized especially in the frame generation process. In this paper, we aim to improve the energy efficiency of the Android graphics pipeline without degrading the user's QoE. To achieve this goal, we studied the internals of the Android graphics pipeline and observed the energy inefficiency in the existing governing framework of the CPU and GPU. Based on the findings, we propose three techniques for addressing energy inefficiency: (1) aggressively capping the maximum CPU frequency, (2) lowering the CPU frequency by raising the GPU minimum frequency, and (3) allocating the frame rendering-related threads in the energy-efficient CPU cores. These techniques are integrated into a single governing framework, called the GFX Governor, and implemented in the newest Android-based smartphones. Experimental results show that without hampering the user's QoE the average energy consumption of Nexus 6P, Pixel XL, and Pixel 2 XL is reduced at the device level by 24.2\%, 18.6\%, and 13.7\%, respectively, for the 60 chosen applications. We also analyzed the efficacy of the proposed technique in comparison with the state-of-the-art Energy-Aware Scheduling (EAS) implemented in the latest smartphone.},
+  booktitle = {Proceedings of the 17th Annual International Conference on Mobile Systems, Applications, and Services},
+  pages = {469–481},
+  numpages = {13},
+  keywords = {android graphics pipeline, heterogeneous multi-core platform, smartphones, dvfs, energy efficiency},
+  location = {Seoul, Republic of Korea},
+  series = {MobiSys '19},
+  selected={true},
+  abbr={MobiSys},
+  pdf={https://dl.acm.org/doi/10.1145/3307334.3326075}
+}
