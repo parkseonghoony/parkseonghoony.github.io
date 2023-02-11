@@ -27,4 +27,4 @@ I am a Ph.D. student in Computer Science at Yonsei University, Seoul, South Kore
 
 My research interests include mobile web experiences and energy-aware mobile systems. I have published reseach papers in top-tier conferences including MobiCom, MobiSys, INFOCOM, and PerCom. You can find my [CV](/assets/pdf/seonghoon_cv.pdf) here!
 
-If you'd like to contact me, please email me at [park.s@yonsei.ac.kr](mailto:park.s@yonsei.ac.kr) (primary) or [park@seonghoon.email](mailto:park@seonghoon.email) (secondary). Thank you 🙏
+If you'd like to contact me, please email me at [park.s at yonsei.ac.kr](mailto:park.s@yonsei.ac.kr) (primary) or [park at seonghoon.email](mailto:park@seonghoon.email) (secondary). Thank you 🙏
