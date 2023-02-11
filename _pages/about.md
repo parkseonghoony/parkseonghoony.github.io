@@ -3,8 +3,9 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <a href='mailto:park.s@yonsei.ac.kr'>park.s@yonsei.ac.kr</a> |
   <a href='https://scholar.google.co.kr/citations?user=0x6frTEAAAAJ&hl=en'>Google Scholar</a> |
+  <a href='https://github.com/park-s'>GitHub</a> |
+  <a href='https://linkedin.com/in/park-seonghoon'>LinkedIn</a> |
   <a href='/assets/pdf/seonghoon_cv.pdf'>CV</a>
 
 profile:
