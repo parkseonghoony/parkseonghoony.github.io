@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-02
+date: 2023-05-05
 inline: true
 ---
 
-One paper titled "Crow API: Cross-device I/O Sharing in Web Applications" has been accepted to INFOCOM 2023.
+One paper titled "OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices" has been accepted to MobiSys 2023.
