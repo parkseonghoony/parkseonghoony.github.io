@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello, this is Seonghoon Park. Welcome to my website. 😀
 
-I am a Ph.D. candidate in Computer Science at Yonsei University, Seoul, South Korea. Also, I am a member of the [Mobile Embedded Systems Lab.](https://mobed.yonsei.ac.kr) supervised by Prof. Hojung Cha.
+I'm currently pursuing the Ph.D. degree in computer science at Yonsei University, Seoul, South Korea. Also, I am a member of the [Mobile Embedded Systems Lab.](https://mobed.yonsei.ac.kr) supervised by Prof. Hojung Cha. I received the B.S. degree in computer science from Yonsei University.
 
 My research interests include mobile web experiences, on-device machine learning, and energy-aware mobile systems. I have published reseach papers in top-tier conferences including MobiCom, MobiSys, INFOCOM, and PerCom. You can find my [CV](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf) here!
 
