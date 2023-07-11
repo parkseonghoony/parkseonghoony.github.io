@@ -120,14 +120,20 @@
         {%- endif -%}
 
         {%- if entry.series -%}
-        {%- capture entryseries -%}{{ " (" }}{{entry.series}}{{ ")" }}{%- endcapture -%}
+          {%- capture entryseries -%}{{ " (" }}{{entry.series}}{{ ")" }}{%- endcapture -%}
+        {%- else -%}
+          {%- capture entryseries -%}{%- endcapture -%}
         {%- endif -%}
 
         {%- if entry.volume -%}
-        {%- capture entryvolume -%}{{ ", vol." }}{{entry.volume}}{%- endcapture -%}
+          {%- capture entryvolume -%}{{ ", vol." }}{{entry.volume}}{%- endcapture -%}
+        {%- else -%}
+          {%- capture entryvolume -%}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.number -%}
-        {%- capture entrynumber -%}{{ ", no." }}{{entry.number}}{%- endcapture -%}
+          {%- capture entrynumber -%}{{ ", no." }}{{entry.number}}{%- endcapture -%}
+        {%- else -%}
+          {%- capture entrynumber -%}{%- endcapture -%}
         {%- endif -%}
 
 

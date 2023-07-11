@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-05
+date: 2023-02-11
 inline: true
 ---
 
-One paper titled "OmniLive: Super-Resolution Enhanced 360° Video Live Streaming for Mobile Devices" has been accepted to MobiSys 2023.
+My personal webpage has been released.

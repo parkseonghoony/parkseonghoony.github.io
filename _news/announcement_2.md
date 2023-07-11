@@ -4,4 +4,4 @@ date: 2022-12-02
 inline: true
 ---
 
-One paper titled "Crow API: Cross-device I/O Sharing in Web Applications" has been accepted to INFOCOM 2023.
+A paper "Crow API: Cross-device I/O Sharing in Web Applications" got accepted to INFOCOM 2023!
