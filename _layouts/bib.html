@@ -119,10 +119,6 @@
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
 
-        {%- if entry.series -%}
-        {%- capture entryseries -%}{{"("}}{{entry.series}}{{")"}}{%- endcapture -%}
-        {%- endif -%}
-
         {%- if entry.volume -%}
         {%- capture entryvolume -%}{{ "vol." }}{{entry.volume}}{%- endcapture -%}
         {%- endif -%}
@@ -137,7 +133,9 @@
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%} -->
         {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+
+        <!-- {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%} -->
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%} {%- endif -%}{{","}}{{ entryvolume }}{{ entrynumber }}{%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
