@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello. Welcome to my webpage! 👋
 
-This is Seonghoon Park. Just so you know, in Korea, I'm called Park Seonghoon (박성훈).
+This is Seonghoon Park. Just for your information, I'm called Park Seonghoon (박성훈) in Korea.
 
 I'm currently pursuing the Ph.D. degree in computer science at Yonsei University, Seoul, South Korea. Also, I am a member of the [Mobile Embedded Systems Lab.](https://mobed.yonsei.ac.kr) supervised by Prof. Hojung Cha. I received the B.S. degree in computer science from Yonsei University in February 2018.
 
