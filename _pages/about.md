@@ -28,6 +28,6 @@ This is Seonghoon Park. Just for your information, I'm called Park Seonghoon (ë°
 
 I'm currently pursuing the Ph.D. degree in computer science at Yonsei University, Seoul, South Korea. Also, I am a member of the [Mobile Embedded Systems Lab.](https://mobed.yonsei.ac.kr) supervised by Prof. Hojung Cha. I received the B.S. degree in computer science from Yonsei University in February 2018.
 
-My research interests include mobile web experience, on-device machine learning, and energy-aware mobile systems. I have published reseach papers in top-tier conferences including MobiCom, MobiSys, INFOCOM, and PerCom. You can find my [CV](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf) here!
+My research interests include cross-device computing, on-device machine learning, energy-aware mobile systems, and mobile web. I have published several reseach papers in top-tier conferences including MobiCom, MobiSys, INFOCOM, and PerCom. My [CV](https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf) is available here!
 
 If you'd like to contact me, please email me at [park.s@yonsei.ac.kr](mailto:park.s@yonsei.ac.kr) (primary) or [park@seonghoon.email](mailto:park@seonghoon.email) (secondary).
