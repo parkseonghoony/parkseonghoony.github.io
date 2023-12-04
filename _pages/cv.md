@@ -1,8 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
+permalink: /assets/pdf/seonghoon_CV.pdf
+newtabl: true
 title: CV
 nav: true
 nav_order: 2
-cv_pdf: seonghoon_CV.pdf
 ---
