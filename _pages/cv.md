@@ -1,5 +1,5 @@
 ---
-layout: dfeault
+layout: default
 permalink: /cv/
 title: CV
 nav: true
