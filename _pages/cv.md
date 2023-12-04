@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
-nav_order: 4
-cv_pdf: seonghoon_cv.pdf
+nav: true
+nav_order: 2
+cv_pdf: seonghoon_CV.pdf
 ---
