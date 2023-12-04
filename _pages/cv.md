@@ -1,7 +1,8 @@
 ---
-permalink: https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf
-newtab: true
+layout: dfeault
+permalink: /cv/
 title: CV
 nav: true
 nav_order: 2
+redirect_to: https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf
 ---
