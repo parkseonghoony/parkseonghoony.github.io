@@ -5,8 +5,8 @@ permalink: /
 subtitle: >
   <a href='https://scholar.google.co.kr/citations?user=0x6frTEAAAAJ&hl=en'>Google Scholar</a> |
   <a href='https://github.com/park-s'>GitHub</a> |
-  <a href='https://linkedin.com/in/parkseonghoon'>LinkedIn</a> |
-  <a href='https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf'>CV</a>
+  <a href='https://linkedin.com/in/parkseonghoon'>LinkedIn</a>
+  # <a href='https://www.dropbox.com/s/740ng2zye30yc89/Seonghoon_CV.pdf'>CV</a>
 
 profile:
   align: right
