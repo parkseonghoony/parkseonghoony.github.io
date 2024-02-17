@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Seonghoon
 middle_name:
 last_name: Park
-email: park.s@yonsei.ac.kr
+email: i.am.parkseonghoon@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -67,11 +67,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: park-s # your GitHub user name
+github_username: parkseonghoony # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: parkseonghoony # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: parkseonghoon # your LinkedIn user name
+linkedin_username: parkseonghoony # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: 0x6frTEAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -94,7 +94,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: parkseonghoony # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: # >
@@ -127,7 +127,7 @@ pagination:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: park-s/park-s.github.io      # <your-github-user-name>/<your-github-repo-name>
+  repo: parkseonghoony/parkseonghoony.github.io      # <your-github-user-name>/<your-github-repo-name>
   repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
