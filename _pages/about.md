@@ -4,6 +4,7 @@ title: About
 permalink: /
 subtitle: >
   <a href='https://scholar.google.co.kr/citations?user=0x6frTEAAAAJ&hl=en'>Google Scholar</a> |
+  <a href='https://dblp.org/pid/243/0069.html'>DBLP</a> |
   <a href='https://github.com/parkseonghoony'>GitHub</a> |
   <a href='https://linkedin.com/in/parkseonghoony'>LinkedIn</a>
 
