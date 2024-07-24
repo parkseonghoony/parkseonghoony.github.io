@@ -30,4 +30,6 @@ I'm currently a Ph.D. candidate in Computer Science at Yonsei University in Seou
 
 My research interests include cross-device computing, on-device machine learning, energy-aware mobile systems, and mobile web. I have published several research papers in top conferences such as MobiCom, MobiSys, INFOCOM, and PerCom.
 
-If you'd like to contact me, please email me at [park.s@yonsei.ac.kr](mailto:park.s@yonsei.ac.kr) (primary) or [park@seonghoon.email](mailto:park@seonghoon.email) (secondary).
+I anticipate completing my Ph.D. degree in August 2025. As I approach the end of my studies, I am actively seeking opportunities for research or postdoctoral positions abroad.
+
+If you'd like to contact me, please email me at park.s (at) yonsei.ac.kr or park (at) seonghoon.email.
