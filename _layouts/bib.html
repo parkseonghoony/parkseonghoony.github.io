@@ -170,8 +170,15 @@
           {%- if entry.teaser %}
             {% if entry.teaser contains '://' -%}
             <a href="{{ entry.teaser }}" class="btn btn-sm z-depth-0" role="button">Teaser</a>
-            {%- else -%}
-            <a href="{{ entry.teaser | prepend: '/assets/teaser/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <!-- {%- else -%}
+            <a href="{{ entry.teaser | prepend: '/assets/teaser/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Teaser</a> -->
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.demo %}
+            {% if entry.demo contains '://' -%}
+            <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+            <!-- {%- else -%}
+            <a href="{{ entry.demo | prepend: '/assets/demo/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Demo</a> -->
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}
