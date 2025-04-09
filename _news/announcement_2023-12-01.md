@@ -4,4 +4,4 @@ date: 2023-12-01
 inline: true
 ---
 
-One paper has been accepted to INFOCOM 2024! (Vulture)
+One paper, Vulture, has been accepted to INFOCOM 2024!
