@@ -4,4 +4,4 @@ date: 2024-05-23
 inline: true
 ---
 
-I presented Vulture at IEEE INFOCOM 2024.
+I presented *Vulture* at IEEE INFOCOM 2024.

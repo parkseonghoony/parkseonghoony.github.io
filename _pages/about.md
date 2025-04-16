@@ -30,6 +30,6 @@ I'm currently a Ph.D. candidate in Computer Science and Engineering at Yonsei Un
 
 My research interests include mobile immersive computing, on-device AI, energy-aware mobile systems. I have published several research papers in top conferences such as MobiCom, MobiSys, INFOCOM, and PerCom.
 
-If you'd like to contact me, please email me at park.s (at) yonsei.ac.kr or park (at) seonghoon.email.
+If you'd like to contact me, please email me at 'park.s (at) yonsei.ac.kr' or 'park (at) seonghoon.email'.
 
 **I expect to graduate in August 2025, and I'm actively seeking opportunities for research or postdoctoral positions abroad!**
